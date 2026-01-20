@@ -1,0 +1,13 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Future of Fintech",
+      "category": "FINANCE · TECH",
+      "description": "Exploring how AI and blockchain are reshaping finance",
+      "content": "Full blog content goes here...",
+      "date": "2026-01-11",
+      "coverImage": "https://picsum.photos/600/300"
+    }
+  ]
+}
